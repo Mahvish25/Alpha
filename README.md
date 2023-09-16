@@ -1,3 +1,3 @@
 # Alpha
-<br></br>
+<br>
 Basic Java Programming Learning
